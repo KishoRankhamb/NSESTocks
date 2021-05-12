@@ -9,3 +9,13 @@ pip install pandas
 install numpy and beautifulSoup
 pip install numpy
 pip install bs4
+
+#3
+Change the only Symbol of Stock 1 by 1
+CIPLA
+ASIANPAINT
+WIPRO
+TCS
+
+
+And run 1 by 1 and See the .CSV ouput in terminal..
