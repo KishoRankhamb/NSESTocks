@@ -1,0 +1,57 @@
+info,metadata,securityInfo,priceInfo,preOpenMarket
+CIPLA,CIPLA,,,
+Cipla Limited,,,,
+PHARMACEUTICALS,PHARMACEUTICALS,,,
+['EQ'],,,,
+[],,,,
+[],,,,
+True,,,,
+False,,,,
+True,,,,
+False,,,,
+False,,,,
+False,,,,
+False,,,,
+INE059A01026,INE059A01026,,,
+False,,,,
+CIPLAEQN,,,,
+,EQ,,,
+,Listed,,,
+,08-Feb-1995,,,
+,12-May-2021 11:54:46,,,12-May-2021 09:07:02
+,36.87,,,
+,27.02,,,
+,NIFTY PHARMA                                      ,,,
+,,Main,,
+,,Active,,
+,,Normal Market,,
+,,-,,
+,,Yes,,
+,,Equity,,
+,,Yes,,
+,,-,,
+,,2,,
+,,806467056,,
+,,,893,
+,,,2.100000000000022,
+,,,0.23571669098664502,
+,,,890.9,
+,,,889.3,
+,,,0,
+,,,894.23,
+,,,801.85,
+,,,979.95,
+,,,No Band,
+,,,890.9,
+,,,"{'min': 884.3, 'max': 900, 'value': 893}",
+,,,"{'min': 565.6, 'minDate': '15-May-2020', 'max': 966.35, 'maxDate': '20-Apr-2021', 'value': 893}",
+,,,,"[{'price': 801.85, 'buyQty': 0, 'sellQty': 100}, {'price': 810.75, 'buyQty': 0, 'sellQty': 440}, {'price': 819.9, 'buyQty': 0, 'sellQty': 20}, {'price': 824.8, 'buyQty': 0, 'sellQty': 3}, {'price': 889.3, 'buyQty': 0, 'sellQty': 0, 'iep': True}, {'price': 908.75, 'buyQty': 71, 'sellQty': 0}, {'price': 915.5, 'buyQty': 5, 'sellQty': 0}, {'price': 917.65, 'buyQty': 40, 'sellQty': 0}, {'price': 976, 'buyQty': 1, 'sellQty': 0}]"
+,,,,"{'buy': 2863, 'sell': 2005}"
+,,,,889.3
+,,,,10736
+,,,,889.3
+,,,,10781
+,,,,63956
+,,,,141657
+,,,,2863
+,,,,2005

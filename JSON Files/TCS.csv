@@ -1,0 +1,57 @@
+info,metadata,securityInfo,priceInfo,preOpenMarket
+TCS,TCS,,,
+Tata Consultancy Services Limited,,,,
+COMPUTERS - SOFTWARE,COMPUTERS - SOFTWARE,,,
+['EQ'],,,,
+[],,,,
+[],,,,
+True,,,,
+False,,,,
+True,,,,
+False,,,,
+False,,,,
+False,,,,
+False,,,,
+INE467B01029,INE467B01029,,,
+False,,,,
+TCSEQN,,,,
+,EQ,,,
+,Listed,,,
+,25-Aug-2004,,,
+,12-May-2021 11:59:46,,,12-May-2021 09:07:02
+,28.26,,,
+,37.31,,,
+,NIFTY IT                                          ,,,
+,,Main,,
+,,Active,,
+,,Normal Market,,
+,,-,,
+,,Yes,,
+,,Equity,,
+,,Yes,,
+,,-,,
+,,1,,
+,,3699051373,,
+,,,3077.55,
+,,,-45.04999999999973,
+,,,-1.442707999743794,
+,,,3122.6,
+,,,3120,
+,,,0,
+,,,3086.51,
+,,,2810.35,
+,,,3434.85,
+,,,No Band,
+,,,3122.6,
+,,,"{'min': 3070.6, 'max': 3120, 'value': 3077.55}",
+,,,"{'min': 1865.2, 'minDate': '15-May-2020', 'max': 3354.35, 'maxDate': '09-Apr-2021', 'value': 3077.55}",
+,,,,"[{'price': 2810.35, 'buyQty': 0, 'sellQty': 28}, {'price': 2841.6, 'buyQty': 0, 'sellQty': 900}, {'price': 2966.45, 'buyQty': 0, 'sellQty': 619}, {'price': 2966.5, 'buyQty': 0, 'sellQty': 67}, {'price': 3120, 'buyQty': 0, 'sellQty': 0, 'iep': True}, {'price': 3200, 'buyQty': 5, 'sellQty': 0}, {'price': 3278.7, 'buyQty': 338, 'sellQty': 0}, {'price': 3299.95, 'buyQty': 1, 'sellQty': 0}, {'price': 3434.85, 'buyQty': 121, 'sellQty': 0}]"
+,,,,"{'buy': 1789, 'sell': 459}"
+,,,,3120
+,,,,3419
+,,,,3120
+,,,,3419
+,,,,24821
+,,,,51390
+,,,,1789
+,,,,459
