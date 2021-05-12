@@ -1,0 +1,57 @@
+info,metadata,securityInfo,priceInfo,preOpenMarket
+WIPRO,WIPRO,,,
+Wipro Limited,,,,
+COMPUTERS - SOFTWARE,COMPUTERS - SOFTWARE,,,
+['EQ'],,,,
+[],,,,
+[],,,,
+True,,,,
+False,,,,
+True,,,,
+False,,,,
+False,,,,
+False,,,,
+False,,,,
+INE075A01022,INE075A01022,,,
+False,,,,
+WIPROEQN,,,,
+,EQ,,,
+,Listed,,,
+,08-Nov-1995,,,
+,12-May-2021 11:59:16,,,12-May-2021 09:07:03
+,28.26,,,
+,28.23,,,
+,NIFTY IT                                          ,,,
+,,Main,,
+,,Active,,
+,,Normal Market,,
+,,-,,
+,,Yes,,
+,,Equity,,
+,,Yes,,
+,,-,,
+,,2,,
+,,5479141222,,
+,,,512.15,
+,,,-6.25,
+,,,-1.205632716049382,
+,,,518.4,
+,,,519.95,
+,,,0,
+,,,515.15,
+,,,466.60,
+,,,570.20,
+,,,No Band,
+,,,518.4,
+,,,"{'min': 511, 'max': 522.55, 'value': 512.15}",
+,,,"{'min': 178, 'minDate': '19-May-2020', 'max': 528.5, 'maxDate': '10-May-2021', 'value': 512.15}",
+,,,,"[{'price': 466.6, 'buyQty': 0, 'sellQty': 182}, {'price': 470, 'buyQty': 0, 'sellQty': 1000}, {'price': 471.75, 'buyQty': 0, 'sellQty': 1530}, {'price': 480, 'buyQty': 0, 'sellQty': 2000}, {'price': 519.95, 'buyQty': 0, 'sellQty': 0, 'iep': True}, {'price': 545.9, 'buyQty': 89, 'sellQty': 0}, {'price': 550, 'buyQty': 295, 'sellQty': 0}, {'price': 560, 'buyQty': 100, 'sellQty': 0}, {'price': 570, 'buyQty': 4, 'sellQty': 0}]"
+,,,,"{'buy': 6298, 'sell': 1751}"
+,,,,519.95
+,,,,29148
+,,,,519.95
+,,,,29148
+,,,,52662
+,,,,163318
+,,,,6298
+,,,,1751
